@@ -13,4 +13,5 @@ This is my commit-1 from feature-1
 this is my fir commit in rebase-1
 * started writing code
 * spending some time in writing code
+* successfully completed writing code
 
