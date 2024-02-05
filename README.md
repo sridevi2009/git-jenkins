@@ -15,3 +15,4 @@ this is my fir commit in rebase-1
 * spending some time in writing code
 * successfully completed writing code
 * commit-2q
+* commit-3
